@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Divya Sharma 👋
+### Senior Software Engineer | Transitioning into AI & Python Ecosystems
 
-<!--
-**Divyaa-Sharmaa/Divyaa-Sharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an experienced Software Engineer with 5 years of professional experience building enterprise systems (Java, SQL, and Frontend integrations). I am currently pivoting my core backend focus towards modern Python architectures, Generative AI engineering, and Large Language Model (LLM) orchestration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ The Tech Stack Evolution
+
+| Core Foundation (Professional) | Current Focus & Learning (Active) |
+| :--- | :--- |
+| Java, Spring Boot, SQL, JavaScript | Python 3.11+, FastAPI, LangChain |
+| Relational Databases, Web APIs | Vector DBs (ChromaDB), Data Pipelines |
+| Enterprise Architecture, AI Coding Tools | Raw Syntax Fluency, Pythonic DSA |
+
+---
+
+## 🚀 Current Roadmap & Progress
+
+- 🐍 **Python Syntax & DSA:** Actively migrating my algorithmic problem-solving to Python.
+- 🤖 **Gen AI Exploration:** Learning to build Retrieval-Augmented Generation (RAG) applications using LangChain to connect custom knowledge bases to LLMs.
+- ⚙️ **AI Productivity:** Deepening my understanding of how to integrate AI tools directly into developer workflows and system automation.
+
+---
+
+## 📈 Featured Repositories (Coming Soon)
+*I am currently building out my new open-source Python and AI portfolio. Stay tuned for production-ready backend applications and AI agents!*
+
+📬 **Let's Connect: https://www.linkedin.com/in/divyasharma1310/** 
